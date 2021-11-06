@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://meri-mg.github.io/Rotating-Navigation-Project-03/);
+[Live Demo Link](https://meri-mg.github.io/Rotating-Navigation-Project-03/)
 
 ## Built with
 - CSS
