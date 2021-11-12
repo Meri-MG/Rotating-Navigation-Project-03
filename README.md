@@ -1,6 +1,5 @@
-
-
 # Rotating Navigation
+> The project was done as part of learning practice following one of the famous course by Brad Traversy on Udemy platform.
 
 ## Live Demo
 
